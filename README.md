@@ -26,10 +26,15 @@ The number n is an integer and is entered from the console.
 04. Sum of Two Numbers:
    
 Write a program that checks all possible combinations of a pair of numbers in the interval of two given numbers. The output prints which combination is the one whose sum of the numbers is equal to a given magic number. If there is no combination that meets the condition, a message is printed that it was not found.
-Input
+
+Input:
+
 The input is read from the console and consists of three lines:
-• First line – start of the interval – integer in the interval [1...999]
-• Second line – end of the interval – integer in the interval [greater than the first number...1000]
+
+• First line – start of the interval – integer
+
+• Second line – end of the interval – integer
+
 • Third line – the magic number – integer in the interval [1...10000]
 Output
 One line should be printed to the console, according to the result:
