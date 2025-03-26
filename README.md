@@ -15,3 +15,5 @@ Print to the console the multiplication table for the numbers 1 to 10 in the for
 
 ########
 
+03. Combinations:
+
