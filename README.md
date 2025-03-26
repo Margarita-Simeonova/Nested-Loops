@@ -13,3 +13,5 @@ Write a program that prints the hours of the day from 0:0 to 23:59, each on a se
 Print to the console the multiplication table for the numbers 1 to 10 in the format:
 "{first factor} * {second factor} = {result}".
 
+########
+
