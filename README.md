@@ -20,3 +20,8 @@ Print to the console the multiplication table for the numbers 1 to 10 in the for
 Write a program that calculates how many solutions in natural numbers (including zero) the equation has:
 x1 + x2 + x3 = n
 The number n is an integer and is entered from the console.
+
+########
+
+04. Sum of Two Numbers:
+   
