@@ -45,6 +45,7 @@ One line should be printed to the console, according to the result:
 
 ########
 
+05. Travelling:
 
 Annie loves to travel and wants to visit several different destinations this year. Once she has chosen a destination, she will estimate how much money she will need to go there and start saving. When she has saved enough, she will be able to travel.
 The console will first read the destination and the minimum budget (decimal number) that will be needed for the trip each time.
