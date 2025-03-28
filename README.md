@@ -46,3 +46,7 @@ One line should be printed to the console, according to the result:
 ########
 
 
+Annie loves to travel and wants to visit several different destinations this year. Once she has chosen a destination, she will estimate how much money she will need to go there and start saving. When she has saved enough, she will be able to travel.
+The console will first read the destination and the minimum budget (decimal number) that will be needed for the trip each time.
+Then, several amounts (decimal numbers) that Annie saves by working will be read and when she manages to save enough for the trip, she will leave, and the console should display: "Going to {destination}!"
+When she has visited all the destinations she wants, she will enter "End" instead of destination and the program will end.
