@@ -42,3 +42,7 @@ One line should be printed to the console, according to the result:
 ◦ "Combination N:{sequential number} ({first number} + {second number} = {magic number})"
 • If no combination matching the condition is found
 ◦ "{number of all combinations} combinations - neither equals {magic number}"
+
+########
+
+
