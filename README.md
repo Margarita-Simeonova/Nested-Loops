@@ -65,5 +65,5 @@ Write a program that prints the room numbers in a building (in descending order)
 • There are always apartments on the top floor and they are larger than the others, so their numbers are preceded by 'L' instead of 'A'. If there is only one floor, then there are only large apartments!
 Two integers are read from the console - the number of floors and the number of rooms per floor.
 
-# Nested Loops - Exercise
+## Nested Loops - Exercise
 
