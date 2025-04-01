@@ -42,3 +42,25 @@ One line should be printed to the console, according to the result:
 ◦ "Combination N:{sequential number} ({first number} + {second number} = {magic number})"
 • If no combination matching the condition is found
 ◦ "{number of all combinations} combinations - neither equals {magic number}"
+
+########
+
+05. Travelling:
+
+Annie loves to travel and wants to visit several different destinations this year. Once she has chosen a destination, she will estimate how much money she will need to go there and start saving. When she has saved enough, she will be able to travel.
+The console will first read the destination and the minimum budget (decimal number) that will be needed for the trip each time.
+Then, several amounts (decimal numbers) that Annie saves by working will be read and when she manages to save enough for the trip, she will leave, and the console should display: "Going to {destination}!"
+When she has visited all the destinations she wants, she will enter "End" instead of destination and the program will end.
+
+
+#######
+
+06. Building:
+
+Write a program that prints the room numbers in a building (in descending order) to the console, provided that the following conditions are met:
+• There are only offices on each even floor;
+• There are only apartments on each odd floor;
+• Each apartment is denoted as follows: A{floor number}{apartment number}, apartment numbers start at 0;
+• Each office is denoted as follows: O{floor number}{office number}, office numbers also start at 0;
+• There are always apartments on the top floor and they are larger than the others, so their numbers are preceded by 'L' instead of 'A'. If there is only one floor, then there are only large apartments!
+Two integers are read from the console - the number of floors and the number of rooms per floor.
