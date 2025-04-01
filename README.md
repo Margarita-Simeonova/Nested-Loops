@@ -67,3 +67,8 @@ Two integers are read from the console - the number of floors and the number of 
 
 ## Nested Loops - Exercise
 
+01. Number Pyramid:
+
+Write a program that reads an integer n entered by the user and prints a pyramid of numbers.
+
+########
